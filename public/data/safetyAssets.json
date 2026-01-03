@@ -1,0 +1,152 @@
+[
+  {
+    "AssetID": "AST-001",
+    "EmergencyID": "EMG-001",
+    "Name": "Assembly Point A",
+    "AssetType": "assembly",
+    "IsEvacuationTarget": 1,
+    "Capacity": 60,
+    "Status": "Active",
+    "Description": "Primary muster point near parking area",
+    "geometry": {
+      "x": 54.5536,
+      "y": 24.3695,
+      "spatialReference": { "wkid": 4326 }
+    }
+  },
+  {
+    "AssetID": "AST-002",
+    "EmergencyID": "EMG-001",
+    "Name": "Assembly Point B",
+    "AssetType": "assembly",
+    "IsEvacuationTarget": 1,
+    "Capacity": 40,
+    "Status": "Active",
+    "Description": "Secondary muster point",
+    "geometry": {
+      "x": 54.5459,
+      "y": 24.3615,
+      "spatialReference": { "wkid": 4326 }
+    }
+  },
+  {
+    "AssetID": "AST-003",
+    "EmergencyID": "EMG-001",
+    "Name": "Emergency Exit East",
+    "AssetType": "exit",
+    "IsEvacuationTarget": 1,
+    "Capacity": null,
+    "Status": "Active",
+    "Description": "Main east-side exit gate",
+    "geometry": {
+      "x": 54.5518,
+      "y": 24.3658,
+      "spatialReference": { "wkid": 4326 }
+    }
+  },
+  {
+    "AssetID": "AST-004",
+    "EmergencyID": "EMG-001",
+    "Name": "Fire Extinguisher F-21",
+    "AssetType": "extinguisher",
+    "IsEvacuationTarget": 0,
+    "Capacity": null,
+    "Status": "Active",
+    "Description": "Dry powder extinguisher",
+    "geometry": {
+      "x": 54.5489,
+      "y": 24.3647,
+      "spatialReference": { "wkid": 4326 }
+    }
+  },
+  {
+    "AssetID": "AST-005",
+    "EmergencyID": "EMG-001",
+    "Name": "First Aid Kit 7",
+    "AssetType": "firstaid",
+    "IsEvacuationTarget": 0,
+    "Capacity": null,
+    "Status": "Active",
+    "Description": "First aid station near control room",
+    "geometry": {
+      "x": 54.5497,
+      "y": 24.3663,
+      "spatialReference": { "wkid": 4326 }
+    }
+  },
+  {
+    "AssetID": "AST-006",
+    "EmergencyID": "EMG-001",
+    "Name": "Emergency Shower S-3",
+    "AssetType": "shower",
+    "IsEvacuationTarget": 0,
+    "Capacity": null,
+    "Status": "Active",
+    "Description": "Chemical decontamination shower",
+    "geometry": {
+      "x": 54.5479,
+      "y": 24.3639,
+      "spatialReference": { "wkid": 4326 }
+    }
+  },
+  {
+    "AssetID": "AST-101",
+    "EmergencyID": "EMG-002",
+    "Name": "Assembly Point – Yard B",
+    "AssetType": "assembly",
+    "IsEvacuationTarget": 1,
+    "Capacity": 30,
+    "Status": "Active",
+    "Description": "Primary assembly point for storage yard",
+    "geometry": {
+      "x": 54.5411,
+      "y": 24.3552,
+      "spatialReference": { "wkid": 4326 }
+    }
+  },
+  {
+    "AssetID": "AST-102",
+    "EmergencyID": "EMG-002",
+    "Name": "Emergency Exit North",
+    "AssetType": "exit",
+    "IsEvacuationTarget": 1,
+    "Capacity": null,
+    "Status": "Active",
+    "Description": "North emergency exit gate",
+    "geometry": {
+      "x": 54.5337,
+      "y": 24.3508,
+      "spatialReference": { "wkid": 4326 }
+    }
+  },
+  {
+    "AssetID": "AST-103",
+    "EmergencyID": "EMG-002",
+    "Name": "Fire Extinguisher B-05",
+    "AssetType": "extinguisher",
+    "IsEvacuationTarget": 0,
+    "Capacity": null,
+    "Status": "Active",
+    "Description": "Foam fire extinguisher",
+    "geometry": {
+      "x": 54.5361,
+      "y": 24.3517,
+      "spatialReference": { "wkid": 4326 }
+    }
+  },
+  {
+    "AssetID": "AST-104",
+    "EmergencyID": "EMG-002",
+    "Name": "Emergency Shower B-2",
+    "AssetType": "shower",
+    "IsEvacuationTarget": 0,
+    "Capacity": null,
+    "Status": "Active",
+    "Description": "Emergency chemical shower",
+    "geometry": {
+      "x": 54.5354,
+      "y": 24.3499,
+      "spatialReference": { "wkid": 4326 }
+    }
+  }
+]

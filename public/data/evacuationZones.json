@@ -1,0 +1,65 @@
+[
+  {
+    "ZoneID": "ZONE-001",
+    "EmergencyID": "EMG-001",
+    "Name": "Primary Danger Zone",
+    "ZoneType": "Warning",
+    "Status": "Active",
+    "RiskLevel": 5,
+    "LastUpdated": "2026-01-01T07:55:00Z",
+    "geometry": {
+      "rings": [
+        [
+          [54.5475, 24.3632],
+          [54.5512, 24.3632],
+          [54.5512, 24.3665],
+          [54.5475, 24.3665],
+          [54.5475, 24.3632]
+        ]
+      ],
+      "spatialReference": { "wkid": 4326 }
+    }
+  },
+  {
+    "ZoneID": "ZONE-002",
+    "EmergencyID": "EMG-001",
+    "Name": "Secondary Buffer Zone",
+    "ZoneType": "Danger",
+    "Status": "Active",
+    "RiskLevel": 3,
+    "LastUpdated": "2026-01-01T07:55:00Z",
+    "geometry": {
+      "rings": [
+        [
+          [54.5462, 24.362],
+          [54.5525, 24.362],
+          [54.5525, 24.3678],
+          [54.5462, 24.3678],
+          [54.5462, 24.362]
+        ]
+      ],
+      "spatialReference": { "wkid": 4326 }
+    }
+  },
+  {
+    "ZoneID": "ZONE-003",
+    "EmergencyID": "EMG-002",
+    "Name": "Fire Risk Zone – Yard B",
+    "ZoneType": "Danger",
+    "Status": "Active",
+    "RiskLevel": 4,
+    "LastUpdated": "2025-12-28T14:40:00Z",
+    "geometry": {
+      "rings": [
+        [
+          [54.5348, 24.3495],
+          [54.5386, 24.3495],
+          [54.5386, 24.3531],
+          [54.5348, 24.3531],
+          [54.5348, 24.3495]
+        ]
+      ],
+      "spatialReference": { "wkid": 4326 }
+    }
+  }
+]

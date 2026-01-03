@@ -1,0 +1,31 @@
+$gray-text: #afbace;
+
+.toolbar {
+  width: 60px;
+  height: 100vh;
+  background-color: #202020;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 80px;
+  justify-content: space-around;
+
+  .top-section {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+  }
+  .toolbar-icon {
+    font-size: 24px;
+    transition: color 0.3s ease;
+    cursor: pointer;
+
+    &.disabled {
+      cursor: not-allowed;
+      opacity: 0.5;
+    }
+    .anticon {
+      color: $gray-text;
+    }
+  }
+}

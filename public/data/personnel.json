@@ -1,0 +1,121 @@
+[
+  {
+    "PersonID": "PRS-001",
+    "EmergencyID": "EMG-001",
+    "FullName": "Ahmad Khalil",
+    "Initials": "AK",
+    "PhotoURL": "/assets/AK.jpg",
+    "Role": "Worker",
+    "Status": 1,
+    "MovingStatus": "Evacuated",
+    "LastUpdate": "2026-01-01T08:03:00Z",
+    "TeamID": "TEAM-A",
+    "geometry": {
+      "x": 54.5493,
+      "y": 24.3651,
+      "spatialReference": { "wkid": 4326 }
+    }
+  },
+  {
+    "PersonID": "PRS-002",
+    "EmergencyID": "EMG-001",
+    "FullName": "Mohammad Saleh",
+    "Initials": "MS",
+    "PhotoURL": "/assets/MS.jpg",
+    "Role": "Worker",
+    "Status": 1,
+    "MovingStatus": "Evacuated",
+    "LastUpdate": "2026-01-01T07:30:00Z",
+    "TeamID": "TEAM-A",
+    "geometry": {
+      "x": 54.5531,
+      "y": 24.3689,
+      "spatialReference": { "wkid": 4326 }
+    }
+  },
+  {
+    "PersonID": "PRS-003",
+    "EmergencyID": "EMG-001",
+    "FullName": "Rami Jaber",
+    "Initials": "RJ",
+    "PhotoURL": null,
+    "Role": "Supervisor",
+    "Status": 0,
+    "MovingStatus": "Still",
+    "LastUpdate": "2026-01-01T08:04:00Z",
+    "TeamID": "TEAM-B",
+    "geometry": {
+      "x": 54.5484,
+      "y": 24.3642,
+      "spatialReference": { "wkid": 4326 }
+    }
+  },
+  {
+    "PersonID": "PRS-004",
+    "EmergencyID": "EMG-001",
+    "FullName": "Yousef Al Nuaimi",
+    "Initials": "YN",
+    "PhotoURL": "/assets/YN.jpg",
+    "Role": "Engineer",
+    "Status": 0,
+    "MovingStatus": "Moving",
+    "LastUpdate": "2026-01-01T08:02:00Z",
+    "TeamID": "TEAM-C",
+    "geometry": {
+      "x": 54.5501,
+      "y": 24.366,
+      "spatialReference": { "wkid": 4326 }
+    }
+  },
+  {
+    "PersonID": "PRS-101",
+    "EmergencyID": "EMG-002",
+    "FullName": "Salem Al Mazrouei",
+    "Initials": "SM",
+    "PhotoURL": null,
+    "Role": "Worker",
+    "Status": 0,
+    "MovingStatus": "Moving",
+    "LastUpdate": "2025-12-28T14:42:00Z",
+    "TeamID": "TEAM-D",
+    "geometry": {
+      "x": 54.5369,
+      "y": 24.3512,
+      "spatialReference": { "wkid": 4326 }
+    }
+  },
+  {
+    "PersonID": "PRS-102",
+    "EmergencyID": "EMG-002",
+    "FullName": "Hassan Al Mansoori",
+    "Initials": "HM",
+    "PhotoURL": null,
+    "Role": "Supervisor",
+    "Status": 0,
+    "MovingStatus": "Still",
+    "LastUpdate": "2025-12-28T14:39:00Z",
+    "TeamID": "TEAM-D",
+    "geometry": {
+      "x": 54.5378,
+      "y": 24.3504,
+      "spatialReference": { "wkid": 4326 }
+    }
+  },
+  {
+    "PersonID": "PRS-103",
+    "EmergencyID": "EMG-002",
+    "FullName": "Khalifa Al Ketbi",
+    "Initials": "KK",
+    "PhotoURL": null,
+    "Role": "Engineer",
+    "Status": 1,
+    "MovingStatus": "Evacuated",
+    "LastUpdate": "2025-12-28T14:20:00Z",
+    "TeamID": "TEAM-E",
+    "geometry": {
+      "x": 54.5402,
+      "y": 24.3546,
+      "spatialReference": { "wkid": 4326 }
+    }
+  }
+]
